@@ -2,9 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "name": "Leanne Graham",
+      "name": "אופיר מוזס",
       "username": "Bret",
-      "email": "Sincere@april.biz",
+      "email": "ofirtest@gmail.com",
       "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
@@ -15,10 +15,10 @@
           "lng": "81.1496"
         }
       },
-      "phone": "1-770-736-8031 x56442",
+      "phone": "1-800-123-123",
       "website": "hildegard.org",
       "company": {
-        "name": "Romaguera-Crona",
+        "name": "The Food Distributers",
         "catchPhrase": "Multi-layered client-server neural-net",
         "bs": "harness real-time e-markets"
       }
